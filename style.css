@@ -1,0 +1,40 @@
+@import url("https://fonts.googleapis.com/css?family=Creepster");
+html {
+  background: #18002b;
+  font: 20px "Creepster", cursive;
+}
+button {
+  background-color: #e7e7e7; 
+  color: black;
+  border: 2px solid;
+  font: 30px "Creepster", cursive;
+}
+button:hover {
+  background-color:  #18002b; 
+  color: white; 
+  border: 2px solid;
+  border-radius: 11px;
+}
+p {
+  display: block;
+  color: #FFFFFF;
+  margin-left: auto;
+  margin-right: auto;
+}
+#status {
+  position:fixed;
+  right: 5px;
+  top: 0px;
+}
+#mainPage {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+#costumeStore {
+  font-size: 24px;
+}
+#trickOrTreatGo {
+  background-color: #18002b;
+}
