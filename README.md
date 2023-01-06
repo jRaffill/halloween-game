@@ -8,3 +8,5 @@ Each house you come to will either give you a random amount of candy, or be inha
 vampires who steal all of your candy. Level up to impress houses and increase your candy
 multiplier, and get to level 10 (creepy clown) to scare the vampires so much that you are
 finally able to trick-or-treat in peace.
+
+Play it at https://jraffill.github.io/halloween-game
